@@ -13,4 +13,4 @@ https://go.fpg.sg/g/aBeMFarucRubeCXVeo9LxYUTWrbgpPVKgJgavP
 ```
 https://go.fpg.sg/g/cmirFoSa0yVpvdLDjTlsMcUvkzm2EYtUTLGTmI
 ```
-{{ include ./test.md }}
+{{ include test.md }}
